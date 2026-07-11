@@ -1,7 +1,7 @@
 ﻿DAUMPLAYLIST
-playname=C:\Courses\data science course\004-Data Science and Business Buzzwords Why are there so Many-XGQ8-git.ir.mp4
-playtime=180066
-topindex=2
+playname=C:\Courses\data science course\017-Applying Traditional Data Big Data BI Traditional Data Science and ML-SECf-git.ir.mp4
+playtime=312066
+topindex=0
 saveplaypos=0
 1*file*C:\Courses\data science course\001-A Practical Example What You Will Learn in This Course-nG00-git.ir.mp4
 1*played*1
@@ -11,15 +11,28 @@ saveplaypos=0
 2*played*1
 2*duration2*214833
 3*file*C:\Courses\data science course\004-Data Science and Business Buzzwords Why are there so Many-XGQ8-git.ir.mp4
-3*invalid*1
+3*played*1
 3*duration2*321828
 4*file*C:\Courses\data science course\006-What is the difference between Analysis and Analytics-tmcp-git.ir.mp4
+4*played*1
+4*duration2*230806
 5*file*C:\Courses\data science course\008-Business Analytics Data Analytics and Data Science An Introduction-ZMYN-git.ir.mp4
+5*played*1
+5*duration2*399661
 6*file*C:\Courses\data science course\010-Continuing with BI ML and AI-NODv-git.ir.mp4
+6*played*1
+6*duration2*551334
 7*file*C:\Courses\data science course\012-Traditional AI vs Generative AI-Xt7K-git.ir.mp4
+7*played*1
+7*duration2*284397
 8*file*C:\Courses\data science course\013-More Examples of Generative AI-EsYG-git.ir.mp4
+8*played*1
+8*duration2*310032
 9*file*C:\Courses\data science course\015-A Breakdown of our Data Science Infographic-J9Uc-git.ir.mp4
+9*played*1
+9*duration2*243484
 10*file*C:\Courses\data science course\017-Applying Traditional Data Big Data BI Traditional Data Science and ML-SECf-git.ir.mp4
+10*duration2*439135
 11*file*C:\Courses\data science course\018-The Reason Behind These Disciplines-yyWR-git.ir.mp4
 12*file*C:\Courses\data science course\020-Techniques for Working with Traditional Data-MkZd-git.ir.mp4
 13*file*C:\Courses\data science course\022-Real Life Examples of Traditional Data-sv4Z-git.ir.mp4
