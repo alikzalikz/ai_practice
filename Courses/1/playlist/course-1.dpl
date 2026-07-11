@@ -1,441 +1,442 @@
 ﻿DAUMPLAYLIST
-playname=D:\Downloads\data science course\004-Data Science and Business Buzzwords Why are there so Many-XGQ8-git.ir.mp4
-playtime=861
-topindex=0
+playname=C:\Courses\data science course\004-Data Science and Business Buzzwords Why are there so Many-XGQ8-git.ir.mp4
+playtime=180066
+topindex=2
 saveplaypos=0
-1*file*D:\Downloads\data science course\001-A Practical Example What You Will Learn in This Course-nG00-git.ir.mp4
+1*file*C:\Courses\data science course\001-A Practical Example What You Will Learn in This Course-nG00-git.ir.mp4
 1*played*1
 1*duration2*306133
 1*start*785
-2*file*D:\Downloads\data science course\002-What Does the Course Cover-M6CO-git.ir.mp4
+2*file*C:\Courses\data science course\002-What Does the Course Cover-M6CO-git.ir.mp4
 2*played*1
 2*duration2*214833
-3*file*D:\Downloads\data science course\004-Data Science and Business Buzzwords Why are there so Many-XGQ8-git.ir.mp4
+3*file*C:\Courses\data science course\004-Data Science and Business Buzzwords Why are there so Many-XGQ8-git.ir.mp4
+3*invalid*1
 3*duration2*321828
-4*file*D:\Downloads\data science course\006-What is the difference between Analysis and Analytics-tmcp-git.ir.mp4
-5*file*D:\Downloads\data science course\008-Business Analytics Data Analytics and Data Science An Introduction-ZMYN-git.ir.mp4
-6*file*D:\Downloads\data science course\010-Continuing with BI ML and AI-NODv-git.ir.mp4
-7*file*D:\Downloads\data science course\012-Traditional AI vs Generative AI-Xt7K-git.ir.mp4
-8*file*D:\Downloads\data science course\013-More Examples of Generative AI-EsYG-git.ir.mp4
-9*file*D:\Downloads\data science course\015-A Breakdown of our Data Science Infographic-J9Uc-git.ir.mp4
-10*file*D:\Downloads\data science course\017-Applying Traditional Data Big Data BI Traditional Data Science and ML-SECf-git.ir.mp4
-11*file*D:\Downloads\data science course\018-The Reason Behind These Disciplines-yyWR-git.ir.mp4
-12*file*D:\Downloads\data science course\020-Techniques for Working with Traditional Data-MkZd-git.ir.mp4
-13*file*D:\Downloads\data science course\022-Real Life Examples of Traditional Data-sv4Z-git.ir.mp4
-14*file*D:\Downloads\data science course\023-Techniques for Working with Big Data-2WVk-git.ir.mp4
-15*file*D:\Downloads\data science course\025-Real Life Examples of Big Data-Sdal-git.ir.mp4
-16*file*D:\Downloads\data science course\026-Business Intelligence BI Techniques-vb4c-git.ir.mp4
-17*file*D:\Downloads\data science course\028-Real Life Examples of Business Intelligence BI-uOyX-git.ir.mp4
-18*file*D:\Downloads\data science course\029-Techniques for Working with Traditional Methods-d9GH-git.ir.mp4
-19*file*D:\Downloads\data science course\031-Real Life Examples of Traditional Methods-xxmV-git.ir.mp4
-20*file*D:\Downloads\data science course\032-Machine Learning ML Techniques-pVuJ-git.ir.mp4
-21*file*D:\Downloads\data science course\034-Types of Machine Learning-JJvR-git.ir.mp4
-22*file*D:\Downloads\data science course\036-Evolution and Latest Trends of Machine Learning ML-E3Kw-git.ir.mp4
-23*file*D:\Downloads\data science course\037-Real Life Examples of Machine Learning ML-UKJP-git.ir.mp4
-24*file*D:\Downloads\data science course\039-Necessary Programming Languages and Software Used in Data Science-uEMF-git.ir.mp4
-25*file*D:\Downloads\data science course\041-Finding the Job What to Expect and What to Look for-r1Rf-git.ir.mp4
-26*file*D:\Downloads\data science course\043-Debunking Common Misconceptions-STg2-git.ir.mp4
-27*file*D:\Downloads\data science course\045-The Basic Probability Formula-lWGA-git.ir.mp4
-28*file*D:\Downloads\data science course\047-Computing Expected Values-AYU3-git.ir.mp4
-29*file*D:\Downloads\data science course\049-Frequency-GPjL-git.ir.mp4
-30*file*D:\Downloads\data science course\051-Events and Their Complements-bYVD-git.ir.mp4
-31*file*D:\Downloads\data science course\053-Fundamentals of Combinatorics-cGtx-git.ir.mp4
-32*file*D:\Downloads\data science course\055-Permutations and How to Use Them-RZP0-git.ir.mp4
-33*file*D:\Downloads\data science course\057-Simple Operations with Factorials-P9ND-git.ir.mp4
-34*file*D:\Downloads\data science course\059-Solving Variations with Repetition-ACro-git.ir.mp4
-35*file*D:\Downloads\data science course\061-Solving Variations without Repetition-1iwI-git.ir.mp4
-36*file*D:\Downloads\data science course\063-Solving Combinations-0oyf-git.ir.mp4
-37*file*D:\Downloads\data science course\065-Symmetry of Combinations-9cde-git.ir.mp4
-38*file*D:\Downloads\data science course\067-Solving Combinations with Separate Sample Spaces-Jn9A-git.ir.mp4
-39*file*D:\Downloads\data science course\069-Combinatorics in Real Life The Lottery-vBMo-git.ir.mp4
-40*file*D:\Downloads\data science course\071-A Recap of Combinatorics-iXJu-git.ir.mp4
-41*file*D:\Downloads\data science course\072-A Practical Example of Combinatorics-MEZX-git.ir.mp4
-42*file*D:\Downloads\data science course\073-Sets and Events-BLUH-git.ir.mp4
-43*file*D:\Downloads\data science course\075-Ways Sets Can Interact-uPSu-git.ir.mp4
-44*file*D:\Downloads\data science course\077-Intersection of Sets-HKYI-git.ir.mp4
-45*file*D:\Downloads\data science course\079-Union of Sets-fmgh-git.ir.mp4
-46*file*D:\Downloads\data science course\081-Mutually Exclusive Sets-H0Jy-git.ir.mp4
-47*file*D:\Downloads\data science course\083-Dependence and Independence of Sets-3eD3-git.ir.mp4
-48*file*D:\Downloads\data science course\085-The Conditional Probability Formula-0DYe-git.ir.mp4
-49*file*D:\Downloads\data science course\087-The Law of Total Probability-wmHL-git.ir.mp4
-50*file*D:\Downloads\data science course\088-The Additive Rule-PSRh-git.ir.mp4
-51*file*D:\Downloads\data science course\090-The Multiplication Law-rZ9M-git.ir.mp4
-52*file*D:\Downloads\data science course\092-Bayes Law-LJBP-git.ir.mp4
-53*file*D:\Downloads\data science course\094-A Practical Example of Bayesian Inference-jnev-git.ir.mp4
-54*file*D:\Downloads\data science course\095-Fundamentals of Probability Distributions-z3tr-git.ir.mp4
-55*file*D:\Downloads\data science course\097-Types of Probability Distributions-9uLG-git.ir.mp4
-56*file*D:\Downloads\data science course\099-Characteristics of Discrete Distributions-bycp-git.ir.mp4
-57*file*D:\Downloads\data science course\101-Discrete Distributions The Uniform Distribution-66Jn-git.ir.mp4
-58*file*D:\Downloads\data science course\103-Discrete Distributions The Bernoulli Distribution-96Ki-git.ir.mp4
-59*file*D:\Downloads\data science course\105-Discrete Distributions The Binomial Distribution-S7p0-git.ir.mp4
-60*file*D:\Downloads\data science course\107-Discrete Distributions The Poisson Distribution-pui1-git.ir.mp4
-61*file*D:\Downloads\data science course\109-Characteristics of Continuous Distributions-wx2l-git.ir.mp4
-62*file*D:\Downloads\data science course\111-Continuous Distributions The Normal Distribution-JrWI-git.ir.mp4
-63*file*D:\Downloads\data science course\113-Continuous Distributions The Standard Normal Distribution-Rnrx-git.ir.mp4
-64*file*D:\Downloads\data science course\115-Continuous Distributions The Students T Distribution-n1ke-git.ir.mp4
-65*file*D:\Downloads\data science course\117-Continuous Distributions The Chi Squared Distribution-or6O-git.ir.mp4
-66*file*D:\Downloads\data science course\119-Continuous Distributions The Exponential Distribution-ReoS-git.ir.mp4
-67*file*D:\Downloads\data science course\121-Continuous Distributions The Logistic Distribution-SnNb-git.ir.mp4
-68*file*D:\Downloads\data science course\123-A Practical Example of Probability Distributions-uEPS-git.ir.mp4
-69*file*D:\Downloads\data science course\124-Probability in Finance-AdH9-git.ir.mp4
-70*file*D:\Downloads\data science course\125-Probability in Statistics-rjuZ-git.ir.mp4
-71*file*D:\Downloads\data science course\126-Probability in Data Science-pmOX-git.ir.mp4
-72*file*D:\Downloads\data science course\127-Population and Sample-M7YX-git.ir.mp4
-73*file*D:\Downloads\data science course\129-Types of Data-mqWI-git.ir.mp4
-74*file*D:\Downloads\data science course\131-Levels of Measurement-IjxP-git.ir.mp4
-75*file*D:\Downloads\data science course\133-Categorical Variables Visualization Techniques-Lppg-git.ir.mp4
-76*file*D:\Downloads\data science course\136-Numerical Variables Frequency Distribution Table-Nlqc-git.ir.mp4
-77*file*D:\Downloads\data science course\139-The Histogram-0tRT-git.ir.mp4
-78*file*D:\Downloads\data science course\142-Cross Tables and Scatter Plots-OlC5-git.ir.mp4
-79*file*D:\Downloads\data science course\145-Mean median and mode-HL7v-git.ir.mp4
-80*file*D:\Downloads\data science course\147-Skewness-9kYb-git.ir.mp4
-81*file*D:\Downloads\data science course\150-Variance-TH7N-git.ir.mp4
-82*file*D:\Downloads\data science course\152-Standard Deviation and Coefficient of Variation-vh6l-git.ir.mp4
-83*file*D:\Downloads\data science course\155-Covariance-iTgg-git.ir.mp4
-84*file*D:\Downloads\data science course\158-Correlation Coefficient-4dTk-git.ir.mp4
-85*file*D:\Downloads\data science course\161-Practical Example Descriptive Statistics-1Zpn-git.ir.mp4
-86*file*D:\Downloads\data science course\163-Introduction-5uQt-git.ir.mp4
-87*file*D:\Downloads\data science course\164-What is a Distribution-V1Jp-git.ir.mp4
-88*file*D:\Downloads\data science course\166-The Normal Distribution-SDWK-git.ir.mp4
-89*file*D:\Downloads\data science course\168-The Standard Normal Distribution-Z8Qs-git.ir.mp4
-90*file*D:\Downloads\data science course\171-Central Limit Theorem-jQR4-git.ir.mp4
-91*file*D:\Downloads\data science course\173-Standard error-6WWG-git.ir.mp4
-92*file*D:\Downloads\data science course\175-Estimators and Estimates-NWZ0-git.ir.mp4
-93*file*D:\Downloads\data science course\177-What are Confidence Intervals-6bms-git.ir.mp4
-94*file*D:\Downloads\data science course\179-Confidence Intervals Population Variance Known Z score-EhWb-git.ir.mp4
-95*file*D:\Downloads\data science course\181-Confidence Interval Clarifications-O5DW-git.ir.mp4
-96*file*D:\Downloads\data science course\182-Student s T Distribution-oF7F-git.ir.mp4
-97*file*D:\Downloads\data science course\184-Confidence Intervals Population Variance Unknown T score-exaA-git.ir.mp4
-98*file*D:\Downloads\data science course\186-Margin of Error-PAgN-git.ir.mp4
-99*file*D:\Downloads\data science course\188-Confidence intervals Two means Dependent samples-dXQ3-git.ir.mp4
-100*file*D:\Downloads\data science course\190-Confidence intervals Two means Independent Samples Part 1-YoLf-git.ir.mp4
-101*file*D:\Downloads\data science course\192-Confidence intervals Two means Independent Samples Part 2-WUJM-git.ir.mp4
-102*file*D:\Downloads\data science course\194-Confidence intervals Two means Independent Samples Part 3-DbJd-git.ir.mp4
-103*file*D:\Downloads\data science course\195-Practical Example Inferential Statistics-eOpK-git.ir.mp4
-104*file*D:\Downloads\data science course\197-Null vs Alternative Hypothesis-2hso-git.ir.mp4
-105*file*D:\Downloads\data science course\200-Rejection Region and Significance Level-51sw-git.ir.mp4
-106*file*D:\Downloads\data science course\202-Type I Error and Type II Error-r8bV-git.ir.mp4
-107*file*D:\Downloads\data science course\204-Test for the Mean Population Variance Known-1nAX-git.ir.mp4
-108*file*D:\Downloads\data science course\206-p value-5Qux-git.ir.mp4
-109*file*D:\Downloads\data science course\208-Test for the Mean Population Variance Unknown-vsPT-git.ir.mp4
-110*file*D:\Downloads\data science course\210-Test for the Mean Dependent Samples-BDfl-git.ir.mp4
-111*file*D:\Downloads\data science course\212-Test for the mean Independent Samples Part 1-BH3S-git.ir.mp4
-112*file*D:\Downloads\data science course\214-Test for the mean Independent Samples Part 2-hQTS-git.ir.mp4
-113*file*D:\Downloads\data science course\217-Practical Example Hypothesis Testing-rvyJ-git.ir.mp4
-114*file*D:\Downloads\data science course\219-Introduction to Programming-XUdM-git.ir.mp4
-115*file*D:\Downloads\data science course\221-Why Python-qXUx-git.ir.mp4
-116*file*D:\Downloads\data science course\223-Why Jupyter-cnbB-git.ir.mp4
-117*file*D:\Downloads\data science course\225-Installing Python and Jupyter-gTJ8-git.ir.mp4
-118*file*D:\Downloads\data science course\226-Understanding Jupyter s Interface the Notebook Dashboard-Y9CY-git.ir.mp4
-119*file*D:\Downloads\data science course\227-Prerequisites for Coding in the Jupyter Notebooks-Wf8W-git.ir.mp4
-120*file*D:\Downloads\data science course\229-Variables-S9dI-git.ir.mp4
-121*file*D:\Downloads\data science course\235-Numbers and Boolean Values in Python-EiHK-git.ir.mp4
-122*file*D:\Downloads\data science course\242-Python Strings-PNqj-git.ir.mp4
-123*file*D:\Downloads\data science course\249-Using Arithmetic Operators in Python-Vxtd-git.ir.mp4
-124*file*D:\Downloads\data science course\259-The Double Equality Sign-Xv2n-git.ir.mp4
-125*file*D:\Downloads\data science course\262-How to Reassign Values-5Fih-git.ir.mp4
-126*file*D:\Downloads\data science course\268-Add Comments-K6TU-git.ir.mp4
-127*file*D:\Downloads\data science course\270-Understanding Line Continuation-hWKN-git.ir.mp4
-128*file*D:\Downloads\data science course\272-Indexing Elements-JQbU-git.ir.mp4
-129*file*D:\Downloads\data science course\276-Structuring with Indentation-2c5n-git.ir.mp4
-130*file*D:\Downloads\data science course\279-Comparison Operators-eqg6-git.ir.mp4
-131*file*D:\Downloads\data science course\285-Logical and Identity Operators-JWG1-git.ir.mp4
-132*file*D:\Downloads\data science course\293-The IF Statement-fPdm-git.ir.mp4
-133*file*D:\Downloads\data science course\297-The ELSE Statement-HUmZ-git.ir.mp4
-134*file*D:\Downloads\data science course\299-The ELIF Statement-OK3M-git.ir.mp4
-135*file*D:\Downloads\data science course\302-A Note on Boolean Values-X5Ll-git.ir.mp4
-136*file*D:\Downloads\data science course\304-Defining a Function in Python-SBhL-git.ir.mp4
-137*file*D:\Downloads\data science course\305-How to Create a Function with a Parameter-UlT7-git.ir.mp4
-138*file*D:\Downloads\data science course\308-Defining a Function in Python Part II-Yq1y-git.ir.mp4
-139*file*D:\Downloads\data science course\310-How to Use a Function within a Function-gYi0-git.ir.mp4
-140*file*D:\Downloads\data science course\312-Conditional Statements and Functions-P0Qm-git.ir.mp4
-141*file*D:\Downloads\data science course\314-Functions Containing a Few Arguments-vcXM-git.ir.mp4
-142*file*D:\Downloads\data science course\315-Built in Functions in Python-j2vZ-git.ir.mp4
-143*file*D:\Downloads\data science course\326-Lists-SHUO-git.ir.mp4
-144*file*D:\Downloads\data science course\333-Using Methods-Ivd3-git.ir.mp4
-145*file*D:\Downloads\data science course\338-List Slicing-hpNX-git.ir.mp4
-146*file*D:\Downloads\data science course\346-Tuples-iJiX-git.ir.mp4
-147*file*D:\Downloads\data science course\351-Dictionaries-AndS-git.ir.mp4
-148*file*D:\Downloads\data science course\359-For Loops-ln6D-git.ir.mp4
-149*file*D:\Downloads\data science course\363-While Loops and Incrementing-ObkV-git.ir.mp4
-150*file*D:\Downloads\data science course\365-Lists with the range Function-wl8x-git.ir.mp4
-151*file*D:\Downloads\data science course\370-Conditional Statements and Loops-OFw8-git.ir.mp4
-152*file*D:\Downloads\data science course\374-Conditional Statements Functions and Loops-gi9m-git.ir.mp4
-153*file*D:\Downloads\data science course\376-How to Iterate over Dictionaries-WoGL-git.ir.mp4
-154*file*D:\Downloads\data science course\379-Object Oriented Programming-LWx3-git.ir.mp4
-155*file*D:\Downloads\data science course\381-Modules and Packages-3qRo-git.ir.mp4
-156*file*D:\Downloads\data science course\383-What is the Standard Library-5Aa7-git.ir.mp4
-157*file*D:\Downloads\data science course\385-Importing Modules in Python-eczm-git.ir.mp4
-158*file*D:\Downloads\data science course\387-Introduction to Regression Analysis-IJnf-git.ir.mp4
-159*file*D:\Downloads\data science course\389-The Linear Regression Model-W7rA-git.ir.mp4
-160*file*D:\Downloads\data science course\391-Correlation vs Regression-bh7q-git.ir.mp4
-161*file*D:\Downloads\data science course\393-Geometrical Representation of the Linear Regression Model-h4T0-git.ir.mp4
-162*file*D:\Downloads\data science course\395-Python Packages Installation-P3Wd-git.ir.mp4
-163*file*D:\Downloads\data science course\396-First Regression in Python-ceH3-git.ir.mp4
-164*file*D:\Downloads\data science course\398-Using Seaborn for Graphs-YNFZ-git.ir.mp4
-165*file*D:\Downloads\data science course\399-How to Interpret the Regression Table-fxpL-git.ir.mp4
-166*file*D:\Downloads\data science course\401-Decomposition of Variability-uBSq-git.ir.mp4
-167*file*D:\Downloads\data science course\403-What is the OLS-coBe-git.ir.mp4
-168*file*D:\Downloads\data science course\405-R Squared-llpK-git.ir.mp4
-169*file*D:\Downloads\data science course\407-Multiple Linear Regression-iCYo-git.ir.mp4
-170*file*D:\Downloads\data science course\409-Adjusted R Squared-zPbC-git.ir.mp4
-171*file*D:\Downloads\data science course\412-Test for Significance of the Model F Test-VTwD-git.ir.mp4
-172*file*D:\Downloads\data science course\413-OLS Assumptions-9Lss-git.ir.mp4
-173*file*D:\Downloads\data science course\415-A1 Linearity-k2lc-git.ir.mp4
-174*file*D:\Downloads\data science course\417-A2 No Endogeneity-LY62-git.ir.mp4
-175*file*D:\Downloads\data science course\419-A3 Normality and Homoscedasticity-AG8l-git.ir.mp4
-176*file*D:\Downloads\data science course\420-A4 No Autocorrelation-bZG2-git.ir.mp4
-177*file*D:\Downloads\data science course\422-A5 No Multicollinearity-CxQc-git.ir.mp4
-178*file*D:\Downloads\data science course\424-Dealing with Categorical Data Dummy Variables-KvOG-git.ir.mp4
-179*file*D:\Downloads\data science course\426-Making Predictions with the Linear Regression-NztB-git.ir.mp4
-180*file*D:\Downloads\data science course\427-What is sklearn and How is it Different from Other Packages-uhIT-git.ir.mp4
-181*file*D:\Downloads\data science course\428-How are we Going to Approach this Section-MTmb-git.ir.mp4
-182*file*D:\Downloads\data science course\429-Simple Linear Regression with sklearn-h5oC-git.ir.mp4
-183*file*D:\Downloads\data science course\430-Simple Linear Regression with sklearn A StatsModels like Summary Table-RaiQ-git.ir.mp4
-184*file*D:\Downloads\data science course\433-Multiple Linear Regression with sklearn-LmMh-git.ir.mp4
-185*file*D:\Downloads\data science course\434-Calculating the Adjusted R Squared in sklearn-P0dJ-git.ir.mp4
-186*file*D:\Downloads\data science course\436-Feature Selection F regression-z3fu-git.ir.mp4
-187*file*D:\Downloads\data science course\438-Creating a Summary Table with P values-JGUp-git.ir.mp4
-188*file*D:\Downloads\data science course\440-Feature Scaling Standardization-yojJ-git.ir.mp4
-189*file*D:\Downloads\data science course\441-Feature Selection through Standardization of Weights-pqWQ-git.ir.mp4
-190*file*D:\Downloads\data science course\442-Predicting with the Standardized Coefficients-g3HT-git.ir.mp4
-191*file*D:\Downloads\data science course\444-Underfitting and Overfitting-CgO2-git.ir.mp4
-192*file*D:\Downloads\data science course\445-Train Test Split Explained-WUdn-git.ir.mp4
-193*file*D:\Downloads\data science course\446-Practical Example Linear Regression Part 1-3xlZ-git.ir.mp4
-194*file*D:\Downloads\data science course\447-Practical Example Linear Regression Part 2-bLBo-git.ir.mp4
-195*file*D:\Downloads\data science course\449-Practical Example Linear Regression Part 3-c2Hr-git.ir.mp4
-196*file*D:\Downloads\data science course\451-Practical Example Linear Regression Part 4-AqNx-git.ir.mp4
-197*file*D:\Downloads\data science course\453-Practical Example Linear Regression Part 5-EgOz-git.ir.mp4
-198*file*D:\Downloads\data science course\455-Introduction to Logistic Regression-PlOC-git.ir.mp4
-199*file*D:\Downloads\data science course\456-A Simple Example in Python-IzJR-git.ir.mp4
-200*file*D:\Downloads\data science course\457-Logistic vs Logit Function-ztOm-git.ir.mp4
-201*file*D:\Downloads\data science course\458-Building a Logistic Regression-sYVc-git.ir.mp4
-202*file*D:\Downloads\data science course\460-An Invaluable Coding Tip-HYKT-git.ir.mp4
-203*file*D:\Downloads\data science course\461-Understanding Logistic Regression Tables-ueYD-git.ir.mp4
-204*file*D:\Downloads\data science course\463-What do the Odds Actually Mean-RAKJ-git.ir.mp4
-205*file*D:\Downloads\data science course\464-Binary Predictors in a Logistic Regression-iDoD-git.ir.mp4
-206*file*D:\Downloads\data science course\466-Calculating the Accuracy of the Model-okKA-git.ir.mp4
-207*file*D:\Downloads\data science course\468-Underfitting and Overfitting-sb0k-git.ir.mp4
-208*file*D:\Downloads\data science course\469-Testing the Model-KMhK-git.ir.mp4
-209*file*D:\Downloads\data science course\471-Introduction to Cluster Analysis-Uxru-git.ir.mp4
-210*file*D:\Downloads\data science course\472-Some Examples of Clusters-bway-git.ir.mp4
-211*file*D:\Downloads\data science course\473-Difference between Classification and Clustering-4v43-git.ir.mp4
-212*file*D:\Downloads\data science course\474-Math Prerequisites-gZWE-git.ir.mp4
-213*file*D:\Downloads\data science course\475-K Means Clustering-y9f3-git.ir.mp4
-214*file*D:\Downloads\data science course\476-A Simple Example of Clustering-LjfE-git.ir.mp4
-215*file*D:\Downloads\data science course\478-Clustering Categorical Data-FVIB-git.ir.mp4
-216*file*D:\Downloads\data science course\480-How to Choose the Number of Clusters-U2gK-git.ir.mp4
-217*file*D:\Downloads\data science course\482-Pros and Cons of K Means Clustering-QTvz-git.ir.mp4
-218*file*D:\Downloads\data science course\483-To Standardize or not to Standardize-aab9-git.ir.mp4
-219*file*D:\Downloads\data science course\484-Relationship between Clustering and Regression-7QOf-git.ir.mp4
-220*file*D:\Downloads\data science course\485-Market Segmentation with Cluster Analysis Part 1-Fsj4-git.ir.mp4
-221*file*D:\Downloads\data science course\486-Market Segmentation with Cluster Analysis Part 2-1dSC-git.ir.mp4
-222*file*D:\Downloads\data science course\487-How is Clustering Useful-V3GN-git.ir.mp4
-223*file*D:\Downloads\data science course\490-Types of Clustering-L2BU-git.ir.mp4
-224*file*D:\Downloads\data science course\491-Dendrogram-H7uc-git.ir.mp4
-225*file*D:\Downloads\data science course\492-Heatmaps-J9mL-git.ir.mp4
-226*file*D:\Downloads\data science course\493-Traditional data science methods and the role of ChatGPT-awCb-git.ir.mp4
-227*file*D:\Downloads\data science course\494-How to install ChatGPT-ox9b-git.ir.mp4
-228*file*D:\Downloads\data science course\495-How ChatGPT can boost your productivity-w3QO-git.ir.mp4
-229*file*D:\Downloads\data science course\496-Data Preprocessing with ChatGPT-Zqjv-git.ir.mp4
-230*file*D:\Downloads\data science course\497-First attempt at machine learning with ChatGPT-wMIa-git.ir.mp4
-231*file*D:\Downloads\data science course\498-Analyzing a client database with ChatGPT in Python-hz1P-git.ir.mp4
-232*file*D:\Downloads\data science course\499-Analyzing a client database with ChatGPT in Python analyzing top products-QpJp-git.ir.mp4
-233*file*D:\Downloads\data science course\500-Analyzing a client database with ChatGPT in Python analyzing top clients RFM-fplP-git.ir.mp4
-234*file*D:\Downloads\data science course\501-Exploratory data analysis EDA with ChatGPT histogram and scatter plot-qAnH-git.ir.mp4
-235*file*D:\Downloads\data science course\502-Exploratory data analysis EDA with ChatGPT correlation matrix outlier detec-KZ0v-git.ir.mp4
-236*file*D:\Downloads\data science course\504-Hypothesis testing with ChatGPT-mqks-git.ir.mp4
-237*file*D:\Downloads\data science course\505-Marvels comic book database Intro to Regular Expressions RegEx-HOty-git.ir.mp4
-238*file*D:\Downloads\data science course\506-Decoding comic book data Python Regular Expressions and ChatGPT-5lGA-git.ir.mp4
-239*file*D:\Downloads\data science course\508-Algorithm recommendation Movie Database Analysis with ChatGPT-AB9i-git.ir.mp4
-240*file*D:\Downloads\data science course\509-Algorithm recommendation recommendation engine for movies with ChatGPT-QdXw-git.ir.mp4
-241*file*D:\Downloads\data science course\510-Ethical principles in data and AI utilization-JgfC-git.ir.mp4
-242*file*D:\Downloads\data science course\511-Using ChatGPT for ethical considerations-Zwj9-git.ir.mp4
-243*file*D:\Downloads\data science course\512-Intro to the Case Study-Deej-git.ir.mp4
-244*file*D:\Downloads\data science course\513-The Naive Bayes Algorithm-a1gw-git.ir.mp4
-245*file*D:\Downloads\data science course\514-Tokenization and Vectorization-AbMV-git.ir.mp4
-246*file*D:\Downloads\data science course\515-Imbalanced Data Sets-bsmC-git.ir.mp4
-247*file*D:\Downloads\data science course\516-Overcome Imbalanced Data in Machine Learning-qDNG-git.ir.mp4
-248*file*D:\Downloads\data science course\517-Loading the Dataset and Preprocessing-rFOL-git.ir.mp4
-249*file*D:\Downloads\data science course\518-Optimizing User Reviews Data Preprocessing EDA-cssr-git.ir.mp4
-250*file*D:\Downloads\data science course\519-Reg Ex for Analyzing Text Review Data-8rSS-git.ir.mp4
-251*file*D:\Downloads\data science course\520-Understanding Differences between Multinomial and Bernouilli Naive Bayes-e6lC-git.ir.mp4
-252*file*D:\Downloads\data science course\521-Machine Learning with Naive Bayes First Attempt-e9u5-git.ir.mp4
-253*file*D:\Downloads\data science course\522-Machine Learning with Naive Bayes converting the problem to a binary one-Js1c-git.ir.mp4
-254*file*D:\Downloads\data science course\523-Testing the Model on New Data-u2AI-git.ir.mp4
-255*file*D:\Downloads\data science course\524-What is a Matrix-LUtU-git.ir.mp4
-256*file*D:\Downloads\data science course\526-Scalars and Vectors-pg6L-git.ir.mp4
-257*file*D:\Downloads\data science course\528-Linear Algebra and Geometry-9OQ1-git.ir.mp4
-258*file*D:\Downloads\data science course\530-Arrays in Python A Convenient Way To Represent Matrices-nVx3-git.ir.mp4
-259*file*D:\Downloads\data science course\531-What is a Tensor-2Cme-git.ir.mp4
-260*file*D:\Downloads\data science course\533-Addition and Subtraction of Matrices-XOth-git.ir.mp4
-261*file*D:\Downloads\data science course\535-Errors when Adding Matrices-QMvF-git.ir.mp4
-262*file*D:\Downloads\data science course\536-Transpose of a Matrix-oaUe-git.ir.mp4
-263*file*D:\Downloads\data science course\537-Dot Product-uW3N-git.ir.mp4
-264*file*D:\Downloads\data science course\538-Dot Product of Matrices-rXms-git.ir.mp4
-265*file*D:\Downloads\data science course\539-Why is Linear Algebra Useful-xCyz-git.ir.mp4
-266*file*D:\Downloads\data science course\540-What to Expect from this Part-zu21-git.ir.mp4
-267*file*D:\Downloads\data science course\541-Introduction to Neural Networks-gWkk-git.ir.mp4
-268*file*D:\Downloads\data science course\543-Training the Model-ENRp-git.ir.mp4
-269*file*D:\Downloads\data science course\545-Types of Machine Learning-L8o3-git.ir.mp4
-270*file*D:\Downloads\data science course\547-The Linear Model Linear Algebraic Version-j53L-git.ir.mp4
-271*file*D:\Downloads\data science course\549-The Linear Model with Multiple Inputs-wras-git.ir.mp4
-272*file*D:\Downloads\data science course\551-The Linear model with Multiple Inputs and Multiple Outputs-G4GP-git.ir.mp4
-273*file*D:\Downloads\data science course\553-Graphical Representation of Simple Neural Networks-VpFC-git.ir.mp4
-274*file*D:\Downloads\data science course\555-What is the Objective Function-IeHf-git.ir.mp4
-275*file*D:\Downloads\data science course\557-Common Objective Functions L2 norm Loss-DrCK-git.ir.mp4
-276*file*D:\Downloads\data science course\559-Common Objective Functions Cross Entropy Loss-yolK-git.ir.mp4
-277*file*D:\Downloads\data science course\561-Optimization Algorithm 1 Parameter Gradient Descent-H079-git.ir.mp4
-278*file*D:\Downloads\data science course\563-Optimization Algorithm n Parameter Gradient Descent-0Y9s-git.ir.mp4
-279*file*D:\Downloads\data science course\565-Basic NN Example Part 1-hBi0-git.ir.mp4
-280*file*D:\Downloads\data science course\566-Basic NN Example Part 2-gyK5-git.ir.mp4
-281*file*D:\Downloads\data science course\567-Basic NN Example Part 3-k28f-git.ir.mp4
-282*file*D:\Downloads\data science course\568-Basic NN Example Part 4-0vle-git.ir.mp4
-283*file*D:\Downloads\data science course\570-How to Install TensorFlow 2 0-hI5I-git.ir.mp4
-284*file*D:\Downloads\data science course\571-TensorFlow Outline and Comparison with Other Libraries-2j3v-git.ir.mp4
-285*file*D:\Downloads\data science course\572-TensorFlow 1 vs TensorFlow 2-JgNv-git.ir.mp4
-286*file*D:\Downloads\data science course\573-A Note on TensorFlow 2 Syntax-prV8-git.ir.mp4
-287*file*D:\Downloads\data science course\574-Types of File Formats Supporting TensorFlow-DAOJ-git.ir.mp4
-288*file*D:\Downloads\data science course\575-Outlining the Model with TensorFlow 2-KFdK-git.ir.mp4
-289*file*D:\Downloads\data science course\576-Interpreting the Result and Extracting the Weights and Bias-InIQ-git.ir.mp4
-290*file*D:\Downloads\data science course\577-Customizing a TensorFlow 2 Model-CE8g-git.ir.mp4
-291*file*D:\Downloads\data science course\579-What is a Layer-KVF9-git.ir.mp4
-292*file*D:\Downloads\data science course\580-What is a Deep Net-3wQB-git.ir.mp4
-293*file*D:\Downloads\data science course\581-Digging into a Deep Net-R6Wz-git.ir.mp4
-294*file*D:\Downloads\data science course\582-Non Linearities and their Purpose-kLsh-git.ir.mp4
-295*file*D:\Downloads\data science course\583-Activation Functions-eNG5-git.ir.mp4
-296*file*D:\Downloads\data science course\584-Activation Functions Softmax Activation-JPlV-git.ir.mp4
-297*file*D:\Downloads\data science course\585-Backpropagation-bVMB-git.ir.mp4
-298*file*D:\Downloads\data science course\586-Backpropagation Picture-XVWg-git.ir.mp4
-299*file*D:\Downloads\data science course\588-What is Overfitting-hYcZ-git.ir.mp4
-300*file*D:\Downloads\data science course\589-Underfitting and Overfitting for Classification-wSHh-git.ir.mp4
-301*file*D:\Downloads\data science course\590-What is Validation-WGHh-git.ir.mp4
-302*file*D:\Downloads\data science course\591-Training Validation and Test Datasets-Zmw4-git.ir.mp4
-303*file*D:\Downloads\data science course\592-N Fold Cross Validation-C4u1-git.ir.mp4
-304*file*D:\Downloads\data science course\593-Early Stopping or When to Stop Training-PNTm-git.ir.mp4
-305*file*D:\Downloads\data science course\594-What is Initialization-JUzO-git.ir.mp4
-306*file*D:\Downloads\data science course\595-Types of Simple Initializations-DfN0-git.ir.mp4
-307*file*D:\Downloads\data science course\596-State of the Art Method Xavier Glorot Initialization-DOyj-git.ir.mp4
-308*file*D:\Downloads\data science course\597-Stochastic Gradient Descent-fBfA-git.ir.mp4
-309*file*D:\Downloads\data science course\598-Problems with Gradient Descent-D343-git.ir.mp4
-310*file*D:\Downloads\data science course\599-Momentum-fA6N-git.ir.mp4
-311*file*D:\Downloads\data science course\600-Learning Rate Schedules or How to Choose the Optimal Learning Rate-jtmc-git.ir.mp4
-312*file*D:\Downloads\data science course\601-Learning Rate Schedules Visualized-o9qD-git.ir.mp4
-313*file*D:\Downloads\data science course\602-Adaptive Learning Rate Schedules AdaGrad and RMSprop-UtQ6-git.ir.mp4
-314*file*D:\Downloads\data science course\603-Adam Adaptive Moment Estimation-pSHs-git.ir.mp4
-315*file*D:\Downloads\data science course\604-Preprocessing Introduction-oWpU-git.ir.mp4
-316*file*D:\Downloads\data science course\605-Types of Basic Preprocessing-0z5y-git.ir.mp4
-317*file*D:\Downloads\data science course\606-Standardization-bqnN-git.ir.mp4
-318*file*D:\Downloads\data science course\607-Preprocessing Categorical Data-alNe-git.ir.mp4
-319*file*D:\Downloads\data science course\608-Binary and One Hot Encoding-1Xss-git.ir.mp4
-320*file*D:\Downloads\data science course\609-MNIST The Dataset-Zy2a-git.ir.mp4
-321*file*D:\Downloads\data science course\610-MNIST How to Tackle the MNIST-gDDN-git.ir.mp4
-322*file*D:\Downloads\data science course\611-MNIST Importing the Relevant Packages and Loading the Data-JCdr-git.ir.mp4
-323*file*D:\Downloads\data science course\612-MNIST Preprocess the Data Create a Validation Set and Scale It-Zno2-git.ir.mp4
-324*file*D:\Downloads\data science course\614-MNIST Preprocess the Data Shuffle and Batch-ba7x-git.ir.mp4
-325*file*D:\Downloads\data science course\616-MNIST Outline the Model-Zn2q-git.ir.mp4
-326*file*D:\Downloads\data science course\617-MNIST Select the Loss and the Optimizer-QEVz-git.ir.mp4
-327*file*D:\Downloads\data science course\618-MNIST Learning-IQ5L-git.ir.mp4
-328*file*D:\Downloads\data science course\620-MNIST Testing the Model-enzQ-git.ir.mp4
-329*file*D:\Downloads\data science course\621-Business Case Exploring the Dataset and Identifying Predictors-gdr5-git.ir.mp4
-330*file*D:\Downloads\data science course\622-Business Case Outlining the Solution-U7tw-git.ir.mp4
-331*file*D:\Downloads\data science course\623-Business Case Balancing the Dataset-fLlP-git.ir.mp4
-332*file*D:\Downloads\data science course\624-Business Case Preprocessing the Data-oY6E-git.ir.mp4
-333*file*D:\Downloads\data science course\626-Business Case Load the Preprocessed Data-qAO9-git.ir.mp4
-334*file*D:\Downloads\data science course\628-Business Case Learning and Interpreting the Result-L3wU-git.ir.mp4
-335*file*D:\Downloads\data science course\629-Business Case Setting an Early Stopping Mechanism-naQX-git.ir.mp4
-336*file*D:\Downloads\data science course\631-Business Case Testing the Model-gwDR-git.ir.mp4
-337*file*D:\Downloads\data science course\633-Summary on What You ve Learned-KfWO-git.ir.mp4
-338*file*D:\Downloads\data science course\634-What s Further out there in terms of Machine Learning-Af3A-git.ir.mp4
-339*file*D:\Downloads\data science course\636-An overview of CNNs-TqBF-git.ir.mp4
-340*file*D:\Downloads\data science course\637-An Overview of RNNs-I908-git.ir.mp4
-341*file*D:\Downloads\data science course\638-An Overview of non NN Approaches-0XjE-git.ir.mp4
-342*file*D:\Downloads\data science course\640-How to Install TensorFlow 1-aiTx-git.ir.mp4
-343*file*D:\Downloads\data science course\642-TensorFlow Intro-XkmE-git.ir.mp4
-344*file*D:\Downloads\data science course\643-Actual Introduction to TensorFlow-LWDt-git.ir.mp4
-345*file*D:\Downloads\data science course\644-Types of File Formats supporting Tensors-D6pk-git.ir.mp4
-346*file*D:\Downloads\data science course\645-Basic NN Example with TF Inputs Outputs Targets Weights Biases-TXBm-git.ir.mp4
-347*file*D:\Downloads\data science course\646-Basic NN Example with TF Loss Function and Gradient Descent-oO4j-git.ir.mp4
-348*file*D:\Downloads\data science course\647-Basic NN Example with TF Model Output-tbm2-git.ir.mp4
-349*file*D:\Downloads\data science course\649-MNIST What is the MNIST Dataset-ZGNE-git.ir.mp4
-350*file*D:\Downloads\data science course\650-MNIST How to Tackle the MNIST-djaI-git.ir.mp4
-351*file*D:\Downloads\data science course\651-MNIST Relevant Packages-gySp-git.ir.mp4
-352*file*D:\Downloads\data science course\652-MNIST Model Outline-HRMe-git.ir.mp4
-353*file*D:\Downloads\data science course\653-MNIST Loss and Optimization Algorithm-Pzob-git.ir.mp4
-354*file*D:\Downloads\data science course\654-Calculating the Accuracy of the Model-3q1J-git.ir.mp4
-355*file*D:\Downloads\data science course\655-MNIST Batching and Early Stopping-4Q1h-git.ir.mp4
-356*file*D:\Downloads\data science course\656-MNIST Learning-0Uus-git.ir.mp4
-357*file*D:\Downloads\data science course\657-MNIST Results and Testing-qhGW-git.ir.mp4
-358*file*D:\Downloads\data science course\660-Business Case Getting Acquainted with the Dataset-w01o-git.ir.mp4
-359*file*D:\Downloads\data science course\661-Business Case Outlining the Solution-ySPZ-git.ir.mp4
-360*file*D:\Downloads\data science course\662-The Importance of Working with a Balanced Dataset-sdsD-git.ir.mp4
-361*file*D:\Downloads\data science course\663-Business Case Preprocessing-RIJ1-git.ir.mp4
-362*file*D:\Downloads\data science course\665-Creating a Data Provider-RNLj-git.ir.mp4
-363*file*D:\Downloads\data science course\666-Business Case Model Outline-wK6v-git.ir.mp4
-364*file*D:\Downloads\data science course\667-Business Case Optimization-if88-git.ir.mp4
-365*file*D:\Downloads\data science course\668-Business Case Interpretation-d6Sk-git.ir.mp4
-366*file*D:\Downloads\data science course\669-Business Case Testing the Model-LtgK-git.ir.mp4
-367*file*D:\Downloads\data science course\670-Business Case A Comment on the Homework-bbqI-git.ir.mp4
-368*file*D:\Downloads\data science course\672-What are Data Servers Clients Requests and Responses-kdI5-git.ir.mp4
-369*file*D:\Downloads\data science course\674-What are Data Connectivity APIs and Endpoints-9tJI-git.ir.mp4
-370*file*D:\Downloads\data science course\676-Taking a Closer Look at APIs-ePjl-git.ir.mp4
-371*file*D:\Downloads\data science course\678-Communication between Software Products through Text Files-KcC4-git.ir.mp4
-372*file*D:\Downloads\data science course\680-Software Integration Explained-LS9x-git.ir.mp4
-373*file*D:\Downloads\data science course\682-Game Plan for this Python SQL and Tableau Business Exercise-hKuP-git.ir.mp4
-374*file*D:\Downloads\data science course\683-The Business Task-apkj-git.ir.mp4
-375*file*D:\Downloads\data science course\684-Introducing the Data Set-hn3U-git.ir.mp4
-376*file*D:\Downloads\data science course\687-Importing the Absenteeism Data in Python-oXpD-git.ir.mp4
-377*file*D:\Downloads\data science course\688-Checking the Content of the Data Set-3rZM-git.ir.mp4
-378*file*D:\Downloads\data science course\689-Introduction to Terms with Multiple Meanings-skig-git.ir.mp4
-379*file*D:\Downloads\data science course\691-Using a Statistical Approach towards the Solution to the Exercise-TMJt-git.ir.mp4
-380*file*D:\Downloads\data science course\692-Dropping a Column from a DataFrame in Python-ljTb-git.ir.mp4
-381*file*D:\Downloads\data science course\695-Analyzing the Reasons for Absence-zh27-git.ir.mp4
-382*file*D:\Downloads\data science course\696-Obtaining Dummies from a Single Feature-dvgI-git.ir.mp4
-383*file*D:\Downloads\data science course\700-More on Dummy Variables A Statistical Perspective-W5zr-git.ir.mp4
-384*file*D:\Downloads\data science course\701-Classifying the Various Reasons for Absence-XiUp-git.ir.mp4
-385*file*D:\Downloads\data science course\702-Using concat in Python-E2FV-git.ir.mp4
-386*file*D:\Downloads\data science course\705-Reordering Columns in a Pandas DataFrame in Python-NCoZ-git.ir.mp4
-387*file*D:\Downloads\data science course\708-Creating Checkpoints while Coding in Jupyter-lfWC-git.ir.mp4
-388*file*D:\Downloads\data science course\711-Analyzing the Dates from the Initial Data Set-Wlh8-git.ir.mp4
-389*file*D:\Downloads\data science course\712-Extracting the Month Value from the Date Column-QgxJ-git.ir.mp4
-390*file*D:\Downloads\data science course\713-Extracting the Day of the Week from the Date Column-PwJh-git.ir.mp4
-391*file*D:\Downloads\data science course\715-Analyzing Several Straightforward Columns for this Exercise-RoZk-git.ir.mp4
-392*file*D:\Downloads\data science course\716-Working on Education Children and Pets-gdwF-git.ir.mp4
-393*file*D:\Downloads\data science course\717-Final Remarks of this Section-MN0u-git.ir.mp4
-394*file*D:\Downloads\data science course\719-Exploring the Problem with a Machine Learning Mindset-aYGN-git.ir.mp4
-395*file*D:\Downloads\data science course\720-Creating the Targets for the Logistic Regression-EdDe-git.ir.mp4
-396*file*D:\Downloads\data science course\721-Selecting the Inputs for the Logistic Regression-FshX-git.ir.mp4
-397*file*D:\Downloads\data science course\722-Standardizing the Data-hJHC-git.ir.mp4
-398*file*D:\Downloads\data science course\723-Splitting the Data for Training and Testing-fKH9-git.ir.mp4
-399*file*D:\Downloads\data science course\724-Fitting the Model and Assessing its Accuracy-Y7lZ-git.ir.mp4
-400*file*D:\Downloads\data science course\725-Creating a Summary Table with the Coefficients and Intercept-kEoe-git.ir.mp4
-401*file*D:\Downloads\data science course\726-Interpreting the Coefficients for Our Problem-YRtZ-git.ir.mp4
-402*file*D:\Downloads\data science course\727-Standardizing only the Numerical Variables Creating a Custom Scaler-mHhX-git.ir.mp4
-403*file*D:\Downloads\data science course\728-Interpreting the Coefficients of the Logistic Regression-LFom-git.ir.mp4
-404*file*D:\Downloads\data science course\729-Backward Elimination or How to Simplify Your Model-qT0d-git.ir.mp4
-405*file*D:\Downloads\data science course\730-Testing the Model We Created-6k2B-git.ir.mp4
-406*file*D:\Downloads\data science course\731-Saving the Model and Preparing it for Deployment-MIZw-git.ir.mp4
-407*file*D:\Downloads\data science course\734-Preparing the Deployment of the Model through a Module-DKNl-git.ir.mp4
-408*file*D:\Downloads\data science course\736-Deploying the absenteeism module Part I-MCbT-git.ir.mp4
-409*file*D:\Downloads\data science course\737-Deploying the absenteeism module Part II-Zz0v-git.ir.mp4
-410*file*D:\Downloads\data science course\740-Analyzing Age vs Probability in Tableau-zREw-git.ir.mp4
-411*file*D:\Downloads\data science course\742-Analyzing Reasons vs Probability in Tableau-PH9M-git.ir.mp4
-412*file*D:\Downloads\data science course\744-Analyzing Transportation Expense vs Probability in Tableau-K9u0-git.ir.mp4
-413*file*D:\Downloads\data science course\745-Using the format Method-zDNX-git.ir.mp4
-414*file*D:\Downloads\data science course\751-Iterating Over Range Objects-RevG-git.ir.mp4
-415*file*D:\Downloads\data science course\752-Introduction to Nested For Loops-Fuhv-git.ir.mp4
-416*file*D:\Downloads\data science course\753-Triple Nested For Loops-e60b-git.ir.mp4
-417*file*D:\Downloads\data science course\761-List Comprehensions-qu0T-git.ir.mp4
-418*file*D:\Downloads\data science course\767-Anonymous Lambda Functions-Xnvg-git.ir.mp4
-419*file*D:\Downloads\data science course\772-Introduction to pandas Series-x66q-git.ir.mp4
-420*file*D:\Downloads\data science course\784-Working with Methods in Python Part I-DcDk-git.ir.mp4
-421*file*D:\Downloads\data science course\785-Working with Methods in Python Part II-pYCQ-git.ir.mp4
-422*file*D:\Downloads\data science course\788-Parameters and Arguments in pandas-YDsm-git.ir.mp4
-423*file*D:\Downloads\data science course\791-Using unique and nunique-TkvL-git.ir.mp4
-424*file*D:\Downloads\data science course\792-Using sort values-EUxp-git.ir.mp4
-425*file*D:\Downloads\data science course\793-Introduction to pandas DataFrames Part I-EDoC-git.ir.mp4
-426*file*D:\Downloads\data science course\794-Introduction to pandas DataFrames Part II-63nE-git.ir.mp4
-427*file*D:\Downloads\data science course\795-pandas DataFrames Common Attributes-PelI-git.ir.mp4
-428*file*D:\Downloads\data science course\796-Data Selection in pandas DataFrames-JPIN-git.ir.mp4
-429*file*D:\Downloads\data science course\797-pandas DataFrames Indexing with iloc-BVQY-git.ir.mp4
-430*file*D:\Downloads\data science course\798-pandas DataFrames Indexing with loc-rSgs-git.ir.mp4
+4*file*C:\Courses\data science course\006-What is the difference between Analysis and Analytics-tmcp-git.ir.mp4
+5*file*C:\Courses\data science course\008-Business Analytics Data Analytics and Data Science An Introduction-ZMYN-git.ir.mp4
+6*file*C:\Courses\data science course\010-Continuing with BI ML and AI-NODv-git.ir.mp4
+7*file*C:\Courses\data science course\012-Traditional AI vs Generative AI-Xt7K-git.ir.mp4
+8*file*C:\Courses\data science course\013-More Examples of Generative AI-EsYG-git.ir.mp4
+9*file*C:\Courses\data science course\015-A Breakdown of our Data Science Infographic-J9Uc-git.ir.mp4
+10*file*C:\Courses\data science course\017-Applying Traditional Data Big Data BI Traditional Data Science and ML-SECf-git.ir.mp4
+11*file*C:\Courses\data science course\018-The Reason Behind These Disciplines-yyWR-git.ir.mp4
+12*file*C:\Courses\data science course\020-Techniques for Working with Traditional Data-MkZd-git.ir.mp4
+13*file*C:\Courses\data science course\022-Real Life Examples of Traditional Data-sv4Z-git.ir.mp4
+14*file*C:\Courses\data science course\023-Techniques for Working with Big Data-2WVk-git.ir.mp4
+15*file*C:\Courses\data science course\025-Real Life Examples of Big Data-Sdal-git.ir.mp4
+16*file*C:\Courses\data science course\026-Business Intelligence BI Techniques-vb4c-git.ir.mp4
+17*file*C:\Courses\data science course\028-Real Life Examples of Business Intelligence BI-uOyX-git.ir.mp4
+18*file*C:\Courses\data science course\029-Techniques for Working with Traditional Methods-d9GH-git.ir.mp4
+19*file*C:\Courses\data science course\031-Real Life Examples of Traditional Methods-xxmV-git.ir.mp4
+20*file*C:\Courses\data science course\032-Machine Learning ML Techniques-pVuJ-git.ir.mp4
+21*file*C:\Courses\data science course\034-Types of Machine Learning-JJvR-git.ir.mp4
+22*file*C:\Courses\data science course\036-Evolution and Latest Trends of Machine Learning ML-E3Kw-git.ir.mp4
+23*file*C:\Courses\data science course\037-Real Life Examples of Machine Learning ML-UKJP-git.ir.mp4
+24*file*C:\Courses\data science course\039-Necessary Programming Languages and Software Used in Data Science-uEMF-git.ir.mp4
+25*file*C:\Courses\data science course\041-Finding the Job What to Expect and What to Look for-r1Rf-git.ir.mp4
+26*file*C:\Courses\data science course\043-Debunking Common Misconceptions-STg2-git.ir.mp4
+27*file*C:\Courses\data science course\045-The Basic Probability Formula-lWGA-git.ir.mp4
+28*file*C:\Courses\data science course\047-Computing Expected Values-AYU3-git.ir.mp4
+29*file*C:\Courses\data science course\049-Frequency-GPjL-git.ir.mp4
+30*file*C:\Courses\data science course\051-Events and Their Complements-bYVD-git.ir.mp4
+31*file*C:\Courses\data science course\053-Fundamentals of Combinatorics-cGtx-git.ir.mp4
+32*file*C:\Courses\data science course\055-Permutations and How to Use Them-RZP0-git.ir.mp4
+33*file*C:\Courses\data science course\057-Simple Operations with Factorials-P9ND-git.ir.mp4
+34*file*C:\Courses\data science course\059-Solving Variations with Repetition-ACro-git.ir.mp4
+35*file*C:\Courses\data science course\061-Solving Variations without Repetition-1iwI-git.ir.mp4
+36*file*C:\Courses\data science course\063-Solving Combinations-0oyf-git.ir.mp4
+37*file*C:\Courses\data science course\065-Symmetry of Combinations-9cde-git.ir.mp4
+38*file*C:\Courses\data science course\067-Solving Combinations with Separate Sample Spaces-Jn9A-git.ir.mp4
+39*file*C:\Courses\data science course\069-Combinatorics in Real Life The Lottery-vBMo-git.ir.mp4
+40*file*C:\Courses\data science course\071-A Recap of Combinatorics-iXJu-git.ir.mp4
+41*file*C:\Courses\data science course\072-A Practical Example of Combinatorics-MEZX-git.ir.mp4
+42*file*C:\Courses\data science course\073-Sets and Events-BLUH-git.ir.mp4
+43*file*C:\Courses\data science course\075-Ways Sets Can Interact-uPSu-git.ir.mp4
+44*file*C:\Courses\data science course\077-Intersection of Sets-HKYI-git.ir.mp4
+45*file*C:\Courses\data science course\079-Union of Sets-fmgh-git.ir.mp4
+46*file*C:\Courses\data science course\081-Mutually Exclusive Sets-H0Jy-git.ir.mp4
+47*file*C:\Courses\data science course\083-Dependence and Independence of Sets-3eD3-git.ir.mp4
+48*file*C:\Courses\data science course\085-The Conditional Probability Formula-0DYe-git.ir.mp4
+49*file*C:\Courses\data science course\087-The Law of Total Probability-wmHL-git.ir.mp4
+50*file*C:\Courses\data science course\088-The Additive Rule-PSRh-git.ir.mp4
+51*file*C:\Courses\data science course\090-The Multiplication Law-rZ9M-git.ir.mp4
+52*file*C:\Courses\data science course\092-Bayes Law-LJBP-git.ir.mp4
+53*file*C:\Courses\data science course\094-A Practical Example of Bayesian Inference-jnev-git.ir.mp4
+54*file*C:\Courses\data science course\095-Fundamentals of Probability Distributions-z3tr-git.ir.mp4
+55*file*C:\Courses\data science course\097-Types of Probability Distributions-9uLG-git.ir.mp4
+56*file*C:\Courses\data science course\099-Characteristics of Discrete Distributions-bycp-git.ir.mp4
+57*file*C:\Courses\data science course\101-Discrete Distributions The Uniform Distribution-66Jn-git.ir.mp4
+58*file*C:\Courses\data science course\103-Discrete Distributions The Bernoulli Distribution-96Ki-git.ir.mp4
+59*file*C:\Courses\data science course\105-Discrete Distributions The Binomial Distribution-S7p0-git.ir.mp4
+60*file*C:\Courses\data science course\107-Discrete Distributions The Poisson Distribution-pui1-git.ir.mp4
+61*file*C:\Courses\data science course\109-Characteristics of Continuous Distributions-wx2l-git.ir.mp4
+62*file*C:\Courses\data science course\111-Continuous Distributions The Normal Distribution-JrWI-git.ir.mp4
+63*file*C:\Courses\data science course\113-Continuous Distributions The Standard Normal Distribution-Rnrx-git.ir.mp4
+64*file*C:\Courses\data science course\115-Continuous Distributions The Students T Distribution-n1ke-git.ir.mp4
+65*file*C:\Courses\data science course\117-Continuous Distributions The Chi Squared Distribution-or6O-git.ir.mp4
+66*file*C:\Courses\data science course\119-Continuous Distributions The Exponential Distribution-ReoS-git.ir.mp4
+67*file*C:\Courses\data science course\121-Continuous Distributions The Logistic Distribution-SnNb-git.ir.mp4
+68*file*C:\Courses\data science course\123-A Practical Example of Probability Distributions-uEPS-git.ir.mp4
+69*file*C:\Courses\data science course\124-Probability in Finance-AdH9-git.ir.mp4
+70*file*C:\Courses\data science course\125-Probability in Statistics-rjuZ-git.ir.mp4
+71*file*C:\Courses\data science course\126-Probability in Data Science-pmOX-git.ir.mp4
+72*file*C:\Courses\data science course\127-Population and Sample-M7YX-git.ir.mp4
+73*file*C:\Courses\data science course\129-Types of Data-mqWI-git.ir.mp4
+74*file*C:\Courses\data science course\131-Levels of Measurement-IjxP-git.ir.mp4
+75*file*C:\Courses\data science course\133-Categorical Variables Visualization Techniques-Lppg-git.ir.mp4
+76*file*C:\Courses\data science course\136-Numerical Variables Frequency Distribution Table-Nlqc-git.ir.mp4
+77*file*C:\Courses\data science course\139-The Histogram-0tRT-git.ir.mp4
+78*file*C:\Courses\data science course\142-Cross Tables and Scatter Plots-OlC5-git.ir.mp4
+79*file*C:\Courses\data science course\145-Mean median and mode-HL7v-git.ir.mp4
+80*file*C:\Courses\data science course\147-Skewness-9kYb-git.ir.mp4
+81*file*C:\Courses\data science course\150-Variance-TH7N-git.ir.mp4
+82*file*C:\Courses\data science course\152-Standard Deviation and Coefficient of Variation-vh6l-git.ir.mp4
+83*file*C:\Courses\data science course\155-Covariance-iTgg-git.ir.mp4
+84*file*C:\Courses\data science course\158-Correlation Coefficient-4dTk-git.ir.mp4
+85*file*C:\Courses\data science course\161-Practical Example Descriptive Statistics-1Zpn-git.ir.mp4
+86*file*C:\Courses\data science course\163-Introduction-5uQt-git.ir.mp4
+87*file*C:\Courses\data science course\164-What is a Distribution-V1Jp-git.ir.mp4
+88*file*C:\Courses\data science course\166-The Normal Distribution-SDWK-git.ir.mp4
+89*file*C:\Courses\data science course\168-The Standard Normal Distribution-Z8Qs-git.ir.mp4
+90*file*C:\Courses\data science course\171-Central Limit Theorem-jQR4-git.ir.mp4
+91*file*C:\Courses\data science course\173-Standard error-6WWG-git.ir.mp4
+92*file*C:\Courses\data science course\175-Estimators and Estimates-NWZ0-git.ir.mp4
+93*file*C:\Courses\data science course\177-What are Confidence Intervals-6bms-git.ir.mp4
+94*file*C:\Courses\data science course\179-Confidence Intervals Population Variance Known Z score-EhWb-git.ir.mp4
+95*file*C:\Courses\data science course\181-Confidence Interval Clarifications-O5DW-git.ir.mp4
+96*file*C:\Courses\data science course\182-Student s T Distribution-oF7F-git.ir.mp4
+97*file*C:\Courses\data science course\184-Confidence Intervals Population Variance Unknown T score-exaA-git.ir.mp4
+98*file*C:\Courses\data science course\186-Margin of Error-PAgN-git.ir.mp4
+99*file*C:\Courses\data science course\188-Confidence intervals Two means Dependent samples-dXQ3-git.ir.mp4
+100*file*C:\Courses\data science course\190-Confidence intervals Two means Independent Samples Part 1-YoLf-git.ir.mp4
+101*file*C:\Courses\data science course\192-Confidence intervals Two means Independent Samples Part 2-WUJM-git.ir.mp4
+102*file*C:\Courses\data science course\194-Confidence intervals Two means Independent Samples Part 3-DbJd-git.ir.mp4
+103*file*C:\Courses\data science course\195-Practical Example Inferential Statistics-eOpK-git.ir.mp4
+104*file*C:\Courses\data science course\197-Null vs Alternative Hypothesis-2hso-git.ir.mp4
+105*file*C:\Courses\data science course\200-Rejection Region and Significance Level-51sw-git.ir.mp4
+106*file*C:\Courses\data science course\202-Type I Error and Type II Error-r8bV-git.ir.mp4
+107*file*C:\Courses\data science course\204-Test for the Mean Population Variance Known-1nAX-git.ir.mp4
+108*file*C:\Courses\data science course\206-p value-5Qux-git.ir.mp4
+109*file*C:\Courses\data science course\208-Test for the Mean Population Variance Unknown-vsPT-git.ir.mp4
+110*file*C:\Courses\data science course\210-Test for the Mean Dependent Samples-BDfl-git.ir.mp4
+111*file*C:\Courses\data science course\212-Test for the mean Independent Samples Part 1-BH3S-git.ir.mp4
+112*file*C:\Courses\data science course\214-Test for the mean Independent Samples Part 2-hQTS-git.ir.mp4
+113*file*C:\Courses\data science course\217-Practical Example Hypothesis Testing-rvyJ-git.ir.mp4
+114*file*C:\Courses\data science course\219-Introduction to Programming-XUdM-git.ir.mp4
+115*file*C:\Courses\data science course\221-Why Python-qXUx-git.ir.mp4
+116*file*C:\Courses\data science course\223-Why Jupyter-cnbB-git.ir.mp4
+117*file*C:\Courses\data science course\225-Installing Python and Jupyter-gTJ8-git.ir.mp4
+118*file*C:\Courses\data science course\226-Understanding Jupyter s Interface the Notebook Dashboard-Y9CY-git.ir.mp4
+119*file*C:\Courses\data science course\227-Prerequisites for Coding in the Jupyter Notebooks-Wf8W-git.ir.mp4
+120*file*C:\Courses\data science course\229-Variables-S9dI-git.ir.mp4
+121*file*C:\Courses\data science course\235-Numbers and Boolean Values in Python-EiHK-git.ir.mp4
+122*file*C:\Courses\data science course\242-Python Strings-PNqj-git.ir.mp4
+123*file*C:\Courses\data science course\249-Using Arithmetic Operators in Python-Vxtd-git.ir.mp4
+124*file*C:\Courses\data science course\259-The Double Equality Sign-Xv2n-git.ir.mp4
+125*file*C:\Courses\data science course\262-How to Reassign Values-5Fih-git.ir.mp4
+126*file*C:\Courses\data science course\268-Add Comments-K6TU-git.ir.mp4
+127*file*C:\Courses\data science course\270-Understanding Line Continuation-hWKN-git.ir.mp4
+128*file*C:\Courses\data science course\272-Indexing Elements-JQbU-git.ir.mp4
+129*file*C:\Courses\data science course\276-Structuring with Indentation-2c5n-git.ir.mp4
+130*file*C:\Courses\data science course\279-Comparison Operators-eqg6-git.ir.mp4
+131*file*C:\Courses\data science course\285-Logical and Identity Operators-JWG1-git.ir.mp4
+132*file*C:\Courses\data science course\293-The IF Statement-fPdm-git.ir.mp4
+133*file*C:\Courses\data science course\297-The ELSE Statement-HUmZ-git.ir.mp4
+134*file*C:\Courses\data science course\299-The ELIF Statement-OK3M-git.ir.mp4
+135*file*C:\Courses\data science course\302-A Note on Boolean Values-X5Ll-git.ir.mp4
+136*file*C:\Courses\data science course\304-Defining a Function in Python-SBhL-git.ir.mp4
+137*file*C:\Courses\data science course\305-How to Create a Function with a Parameter-UlT7-git.ir.mp4
+138*file*C:\Courses\data science course\308-Defining a Function in Python Part II-Yq1y-git.ir.mp4
+139*file*C:\Courses\data science course\310-How to Use a Function within a Function-gYi0-git.ir.mp4
+140*file*C:\Courses\data science course\312-Conditional Statements and Functions-P0Qm-git.ir.mp4
+141*file*C:\Courses\data science course\314-Functions Containing a Few Arguments-vcXM-git.ir.mp4
+142*file*C:\Courses\data science course\315-Built in Functions in Python-j2vZ-git.ir.mp4
+143*file*C:\Courses\data science course\326-Lists-SHUO-git.ir.mp4
+144*file*C:\Courses\data science course\333-Using Methods-Ivd3-git.ir.mp4
+145*file*C:\Courses\data science course\338-List Slicing-hpNX-git.ir.mp4
+146*file*C:\Courses\data science course\346-Tuples-iJiX-git.ir.mp4
+147*file*C:\Courses\data science course\351-Dictionaries-AndS-git.ir.mp4
+148*file*C:\Courses\data science course\359-For Loops-ln6D-git.ir.mp4
+149*file*C:\Courses\data science course\363-While Loops and Incrementing-ObkV-git.ir.mp4
+150*file*C:\Courses\data science course\365-Lists with the range Function-wl8x-git.ir.mp4
+151*file*C:\Courses\data science course\370-Conditional Statements and Loops-OFw8-git.ir.mp4
+152*file*C:\Courses\data science course\374-Conditional Statements Functions and Loops-gi9m-git.ir.mp4
+153*file*C:\Courses\data science course\376-How to Iterate over Dictionaries-WoGL-git.ir.mp4
+154*file*C:\Courses\data science course\379-Object Oriented Programming-LWx3-git.ir.mp4
+155*file*C:\Courses\data science course\381-Modules and Packages-3qRo-git.ir.mp4
+156*file*C:\Courses\data science course\383-What is the Standard Library-5Aa7-git.ir.mp4
+157*file*C:\Courses\data science course\385-Importing Modules in Python-eczm-git.ir.mp4
+158*file*C:\Courses\data science course\387-Introduction to Regression Analysis-IJnf-git.ir.mp4
+159*file*C:\Courses\data science course\389-The Linear Regression Model-W7rA-git.ir.mp4
+160*file*C:\Courses\data science course\391-Correlation vs Regression-bh7q-git.ir.mp4
+161*file*C:\Courses\data science course\393-Geometrical Representation of the Linear Regression Model-h4T0-git.ir.mp4
+162*file*C:\Courses\data science course\395-Python Packages Installation-P3Wd-git.ir.mp4
+163*file*C:\Courses\data science course\396-First Regression in Python-ceH3-git.ir.mp4
+164*file*C:\Courses\data science course\398-Using Seaborn for Graphs-YNFZ-git.ir.mp4
+165*file*C:\Courses\data science course\399-How to Interpret the Regression Table-fxpL-git.ir.mp4
+166*file*C:\Courses\data science course\401-Decomposition of Variability-uBSq-git.ir.mp4
+167*file*C:\Courses\data science course\403-What is the OLS-coBe-git.ir.mp4
+168*file*C:\Courses\data science course\405-R Squared-llpK-git.ir.mp4
+169*file*C:\Courses\data science course\407-Multiple Linear Regression-iCYo-git.ir.mp4
+170*file*C:\Courses\data science course\409-Adjusted R Squared-zPbC-git.ir.mp4
+171*file*C:\Courses\data science course\412-Test for Significance of the Model F Test-VTwD-git.ir.mp4
+172*file*C:\Courses\data science course\413-OLS Assumptions-9Lss-git.ir.mp4
+173*file*C:\Courses\data science course\415-A1 Linearity-k2lc-git.ir.mp4
+174*file*C:\Courses\data science course\417-A2 No Endogeneity-LY62-git.ir.mp4
+175*file*C:\Courses\data science course\419-A3 Normality and Homoscedasticity-AG8l-git.ir.mp4
+176*file*C:\Courses\data science course\420-A4 No Autocorrelation-bZG2-git.ir.mp4
+177*file*C:\Courses\data science course\422-A5 No Multicollinearity-CxQc-git.ir.mp4
+178*file*C:\Courses\data science course\424-Dealing with Categorical Data Dummy Variables-KvOG-git.ir.mp4
+179*file*C:\Courses\data science course\426-Making Predictions with the Linear Regression-NztB-git.ir.mp4
+180*file*C:\Courses\data science course\427-What is sklearn and How is it Different from Other Packages-uhIT-git.ir.mp4
+181*file*C:\Courses\data science course\428-How are we Going to Approach this Section-MTmb-git.ir.mp4
+182*file*C:\Courses\data science course\429-Simple Linear Regression with sklearn-h5oC-git.ir.mp4
+183*file*C:\Courses\data science course\430-Simple Linear Regression with sklearn A StatsModels like Summary Table-RaiQ-git.ir.mp4
+184*file*C:\Courses\data science course\433-Multiple Linear Regression with sklearn-LmMh-git.ir.mp4
+185*file*C:\Courses\data science course\434-Calculating the Adjusted R Squared in sklearn-P0dJ-git.ir.mp4
+186*file*C:\Courses\data science course\436-Feature Selection F regression-z3fu-git.ir.mp4
+187*file*C:\Courses\data science course\438-Creating a Summary Table with P values-JGUp-git.ir.mp4
+188*file*C:\Courses\data science course\440-Feature Scaling Standardization-yojJ-git.ir.mp4
+189*file*C:\Courses\data science course\441-Feature Selection through Standardization of Weights-pqWQ-git.ir.mp4
+190*file*C:\Courses\data science course\442-Predicting with the Standardized Coefficients-g3HT-git.ir.mp4
+191*file*C:\Courses\data science course\444-Underfitting and Overfitting-CgO2-git.ir.mp4
+192*file*C:\Courses\data science course\445-Train Test Split Explained-WUdn-git.ir.mp4
+193*file*C:\Courses\data science course\446-Practical Example Linear Regression Part 1-3xlZ-git.ir.mp4
+194*file*C:\Courses\data science course\447-Practical Example Linear Regression Part 2-bLBo-git.ir.mp4
+195*file*C:\Courses\data science course\449-Practical Example Linear Regression Part 3-c2Hr-git.ir.mp4
+196*file*C:\Courses\data science course\451-Practical Example Linear Regression Part 4-AqNx-git.ir.mp4
+197*file*C:\Courses\data science course\453-Practical Example Linear Regression Part 5-EgOz-git.ir.mp4
+198*file*C:\Courses\data science course\455-Introduction to Logistic Regression-PlOC-git.ir.mp4
+199*file*C:\Courses\data science course\456-A Simple Example in Python-IzJR-git.ir.mp4
+200*file*C:\Courses\data science course\457-Logistic vs Logit Function-ztOm-git.ir.mp4
+201*file*C:\Courses\data science course\458-Building a Logistic Regression-sYVc-git.ir.mp4
+202*file*C:\Courses\data science course\460-An Invaluable Coding Tip-HYKT-git.ir.mp4
+203*file*C:\Courses\data science course\461-Understanding Logistic Regression Tables-ueYD-git.ir.mp4
+204*file*C:\Courses\data science course\463-What do the Odds Actually Mean-RAKJ-git.ir.mp4
+205*file*C:\Courses\data science course\464-Binary Predictors in a Logistic Regression-iDoD-git.ir.mp4
+206*file*C:\Courses\data science course\466-Calculating the Accuracy of the Model-okKA-git.ir.mp4
+207*file*C:\Courses\data science course\468-Underfitting and Overfitting-sb0k-git.ir.mp4
+208*file*C:\Courses\data science course\469-Testing the Model-KMhK-git.ir.mp4
+209*file*C:\Courses\data science course\471-Introduction to Cluster Analysis-Uxru-git.ir.mp4
+210*file*C:\Courses\data science course\472-Some Examples of Clusters-bway-git.ir.mp4
+211*file*C:\Courses\data science course\473-Difference between Classification and Clustering-4v43-git.ir.mp4
+212*file*C:\Courses\data science course\474-Math Prerequisites-gZWE-git.ir.mp4
+213*file*C:\Courses\data science course\475-K Means Clustering-y9f3-git.ir.mp4
+214*file*C:\Courses\data science course\476-A Simple Example of Clustering-LjfE-git.ir.mp4
+215*file*C:\Courses\data science course\478-Clustering Categorical Data-FVIB-git.ir.mp4
+216*file*C:\Courses\data science course\480-How to Choose the Number of Clusters-U2gK-git.ir.mp4
+217*file*C:\Courses\data science course\482-Pros and Cons of K Means Clustering-QTvz-git.ir.mp4
+218*file*C:\Courses\data science course\483-To Standardize or not to Standardize-aab9-git.ir.mp4
+219*file*C:\Courses\data science course\484-Relationship between Clustering and Regression-7QOf-git.ir.mp4
+220*file*C:\Courses\data science course\485-Market Segmentation with Cluster Analysis Part 1-Fsj4-git.ir.mp4
+221*file*C:\Courses\data science course\486-Market Segmentation with Cluster Analysis Part 2-1dSC-git.ir.mp4
+222*file*C:\Courses\data science course\487-How is Clustering Useful-V3GN-git.ir.mp4
+223*file*C:\Courses\data science course\490-Types of Clustering-L2BU-git.ir.mp4
+224*file*C:\Courses\data science course\491-Dendrogram-H7uc-git.ir.mp4
+225*file*C:\Courses\data science course\492-Heatmaps-J9mL-git.ir.mp4
+226*file*C:\Courses\data science course\493-Traditional data science methods and the role of ChatGPT-awCb-git.ir.mp4
+227*file*C:\Courses\data science course\494-How to install ChatGPT-ox9b-git.ir.mp4
+228*file*C:\Courses\data science course\495-How ChatGPT can boost your productivity-w3QO-git.ir.mp4
+229*file*C:\Courses\data science course\496-Data Preprocessing with ChatGPT-Zqjv-git.ir.mp4
+230*file*C:\Courses\data science course\497-First attempt at machine learning with ChatGPT-wMIa-git.ir.mp4
+231*file*C:\Courses\data science course\498-Analyzing a client database with ChatGPT in Python-hz1P-git.ir.mp4
+232*file*C:\Courses\data science course\499-Analyzing a client database with ChatGPT in Python analyzing top products-QpJp-git.ir.mp4
+233*file*C:\Courses\data science course\500-Analyzing a client database with ChatGPT in Python analyzing top clients RFM-fplP-git.ir.mp4
+234*file*C:\Courses\data science course\501-Exploratory data analysis EDA with ChatGPT histogram and scatter plot-qAnH-git.ir.mp4
+235*file*C:\Courses\data science course\502-Exploratory data analysis EDA with ChatGPT correlation matrix outlier detec-KZ0v-git.ir.mp4
+236*file*C:\Courses\data science course\504-Hypothesis testing with ChatGPT-mqks-git.ir.mp4
+237*file*C:\Courses\data science course\505-Marvels comic book database Intro to Regular Expressions RegEx-HOty-git.ir.mp4
+238*file*C:\Courses\data science course\506-Decoding comic book data Python Regular Expressions and ChatGPT-5lGA-git.ir.mp4
+239*file*C:\Courses\data science course\508-Algorithm recommendation Movie Database Analysis with ChatGPT-AB9i-git.ir.mp4
+240*file*C:\Courses\data science course\509-Algorithm recommendation recommendation engine for movies with ChatGPT-QdXw-git.ir.mp4
+241*file*C:\Courses\data science course\510-Ethical principles in data and AI utilization-JgfC-git.ir.mp4
+242*file*C:\Courses\data science course\511-Using ChatGPT for ethical considerations-Zwj9-git.ir.mp4
+243*file*C:\Courses\data science course\512-Intro to the Case Study-Deej-git.ir.mp4
+244*file*C:\Courses\data science course\513-The Naive Bayes Algorithm-a1gw-git.ir.mp4
+245*file*C:\Courses\data science course\514-Tokenization and Vectorization-AbMV-git.ir.mp4
+246*file*C:\Courses\data science course\515-Imbalanced Data Sets-bsmC-git.ir.mp4
+247*file*C:\Courses\data science course\516-Overcome Imbalanced Data in Machine Learning-qDNG-git.ir.mp4
+248*file*C:\Courses\data science course\517-Loading the Dataset and Preprocessing-rFOL-git.ir.mp4
+249*file*C:\Courses\data science course\518-Optimizing User Reviews Data Preprocessing EDA-cssr-git.ir.mp4
+250*file*C:\Courses\data science course\519-Reg Ex for Analyzing Text Review Data-8rSS-git.ir.mp4
+251*file*C:\Courses\data science course\520-Understanding Differences between Multinomial and Bernouilli Naive Bayes-e6lC-git.ir.mp4
+252*file*C:\Courses\data science course\521-Machine Learning with Naive Bayes First Attempt-e9u5-git.ir.mp4
+253*file*C:\Courses\data science course\522-Machine Learning with Naive Bayes converting the problem to a binary one-Js1c-git.ir.mp4
+254*file*C:\Courses\data science course\523-Testing the Model on New Data-u2AI-git.ir.mp4
+255*file*C:\Courses\data science course\524-What is a Matrix-LUtU-git.ir.mp4
+256*file*C:\Courses\data science course\526-Scalars and Vectors-pg6L-git.ir.mp4
+257*file*C:\Courses\data science course\528-Linear Algebra and Geometry-9OQ1-git.ir.mp4
+258*file*C:\Courses\data science course\530-Arrays in Python A Convenient Way To Represent Matrices-nVx3-git.ir.mp4
+259*file*C:\Courses\data science course\531-What is a Tensor-2Cme-git.ir.mp4
+260*file*C:\Courses\data science course\533-Addition and Subtraction of Matrices-XOth-git.ir.mp4
+261*file*C:\Courses\data science course\535-Errors when Adding Matrices-QMvF-git.ir.mp4
+262*file*C:\Courses\data science course\536-Transpose of a Matrix-oaUe-git.ir.mp4
+263*file*C:\Courses\data science course\537-Dot Product-uW3N-git.ir.mp4
+264*file*C:\Courses\data science course\538-Dot Product of Matrices-rXms-git.ir.mp4
+265*file*C:\Courses\data science course\539-Why is Linear Algebra Useful-xCyz-git.ir.mp4
+266*file*C:\Courses\data science course\540-What to Expect from this Part-zu21-git.ir.mp4
+267*file*C:\Courses\data science course\541-Introduction to Neural Networks-gWkk-git.ir.mp4
+268*file*C:\Courses\data science course\543-Training the Model-ENRp-git.ir.mp4
+269*file*C:\Courses\data science course\545-Types of Machine Learning-L8o3-git.ir.mp4
+270*file*C:\Courses\data science course\547-The Linear Model Linear Algebraic Version-j53L-git.ir.mp4
+271*file*C:\Courses\data science course\549-The Linear Model with Multiple Inputs-wras-git.ir.mp4
+272*file*C:\Courses\data science course\551-The Linear model with Multiple Inputs and Multiple Outputs-G4GP-git.ir.mp4
+273*file*C:\Courses\data science course\553-Graphical Representation of Simple Neural Networks-VpFC-git.ir.mp4
+274*file*C:\Courses\data science course\555-What is the Objective Function-IeHf-git.ir.mp4
+275*file*C:\Courses\data science course\557-Common Objective Functions L2 norm Loss-DrCK-git.ir.mp4
+276*file*C:\Courses\data science course\559-Common Objective Functions Cross Entropy Loss-yolK-git.ir.mp4
+277*file*C:\Courses\data science course\561-Optimization Algorithm 1 Parameter Gradient Descent-H079-git.ir.mp4
+278*file*C:\Courses\data science course\563-Optimization Algorithm n Parameter Gradient Descent-0Y9s-git.ir.mp4
+279*file*C:\Courses\data science course\565-Basic NN Example Part 1-hBi0-git.ir.mp4
+280*file*C:\Courses\data science course\566-Basic NN Example Part 2-gyK5-git.ir.mp4
+281*file*C:\Courses\data science course\567-Basic NN Example Part 3-k28f-git.ir.mp4
+282*file*C:\Courses\data science course\568-Basic NN Example Part 4-0vle-git.ir.mp4
+283*file*C:\Courses\data science course\570-How to Install TensorFlow 2 0-hI5I-git.ir.mp4
+284*file*C:\Courses\data science course\571-TensorFlow Outline and Comparison with Other Libraries-2j3v-git.ir.mp4
+285*file*C:\Courses\data science course\572-TensorFlow 1 vs TensorFlow 2-JgNv-git.ir.mp4
+286*file*C:\Courses\data science course\573-A Note on TensorFlow 2 Syntax-prV8-git.ir.mp4
+287*file*C:\Courses\data science course\574-Types of File Formats Supporting TensorFlow-DAOJ-git.ir.mp4
+288*file*C:\Courses\data science course\575-Outlining the Model with TensorFlow 2-KFdK-git.ir.mp4
+289*file*C:\Courses\data science course\576-Interpreting the Result and Extracting the Weights and Bias-InIQ-git.ir.mp4
+290*file*C:\Courses\data science course\577-Customizing a TensorFlow 2 Model-CE8g-git.ir.mp4
+291*file*C:\Courses\data science course\579-What is a Layer-KVF9-git.ir.mp4
+292*file*C:\Courses\data science course\580-What is a Deep Net-3wQB-git.ir.mp4
+293*file*C:\Courses\data science course\581-Digging into a Deep Net-R6Wz-git.ir.mp4
+294*file*C:\Courses\data science course\582-Non Linearities and their Purpose-kLsh-git.ir.mp4
+295*file*C:\Courses\data science course\583-Activation Functions-eNG5-git.ir.mp4
+296*file*C:\Courses\data science course\584-Activation Functions Softmax Activation-JPlV-git.ir.mp4
+297*file*C:\Courses\data science course\585-Backpropagation-bVMB-git.ir.mp4
+298*file*C:\Courses\data science course\586-Backpropagation Picture-XVWg-git.ir.mp4
+299*file*C:\Courses\data science course\588-What is Overfitting-hYcZ-git.ir.mp4
+300*file*C:\Courses\data science course\589-Underfitting and Overfitting for Classification-wSHh-git.ir.mp4
+301*file*C:\Courses\data science course\590-What is Validation-WGHh-git.ir.mp4
+302*file*C:\Courses\data science course\591-Training Validation and Test Datasets-Zmw4-git.ir.mp4
+303*file*C:\Courses\data science course\592-N Fold Cross Validation-C4u1-git.ir.mp4
+304*file*C:\Courses\data science course\593-Early Stopping or When to Stop Training-PNTm-git.ir.mp4
+305*file*C:\Courses\data science course\594-What is Initialization-JUzO-git.ir.mp4
+306*file*C:\Courses\data science course\595-Types of Simple Initializations-DfN0-git.ir.mp4
+307*file*C:\Courses\data science course\596-State of the Art Method Xavier Glorot Initialization-DOyj-git.ir.mp4
+308*file*C:\Courses\data science course\597-Stochastic Gradient Descent-fBfA-git.ir.mp4
+309*file*C:\Courses\data science course\598-Problems with Gradient Descent-D343-git.ir.mp4
+310*file*C:\Courses\data science course\599-Momentum-fA6N-git.ir.mp4
+311*file*C:\Courses\data science course\600-Learning Rate Schedules or How to Choose the Optimal Learning Rate-jtmc-git.ir.mp4
+312*file*C:\Courses\data science course\601-Learning Rate Schedules Visualized-o9qD-git.ir.mp4
+313*file*C:\Courses\data science course\602-Adaptive Learning Rate Schedules AdaGrad and RMSprop-UtQ6-git.ir.mp4
+314*file*C:\Courses\data science course\603-Adam Adaptive Moment Estimation-pSHs-git.ir.mp4
+315*file*C:\Courses\data science course\604-Preprocessing Introduction-oWpU-git.ir.mp4
+316*file*C:\Courses\data science course\605-Types of Basic Preprocessing-0z5y-git.ir.mp4
+317*file*C:\Courses\data science course\606-Standardization-bqnN-git.ir.mp4
+318*file*C:\Courses\data science course\607-Preprocessing Categorical Data-alNe-git.ir.mp4
+319*file*C:\Courses\data science course\608-Binary and One Hot Encoding-1Xss-git.ir.mp4
+320*file*C:\Courses\data science course\609-MNIST The Dataset-Zy2a-git.ir.mp4
+321*file*C:\Courses\data science course\610-MNIST How to Tackle the MNIST-gDDN-git.ir.mp4
+322*file*C:\Courses\data science course\611-MNIST Importing the Relevant Packages and Loading the Data-JCdr-git.ir.mp4
+323*file*C:\Courses\data science course\612-MNIST Preprocess the Data Create a Validation Set and Scale It-Zno2-git.ir.mp4
+324*file*C:\Courses\data science course\614-MNIST Preprocess the Data Shuffle and Batch-ba7x-git.ir.mp4
+325*file*C:\Courses\data science course\616-MNIST Outline the Model-Zn2q-git.ir.mp4
+326*file*C:\Courses\data science course\617-MNIST Select the Loss and the Optimizer-QEVz-git.ir.mp4
+327*file*C:\Courses\data science course\618-MNIST Learning-IQ5L-git.ir.mp4
+328*file*C:\Courses\data science course\620-MNIST Testing the Model-enzQ-git.ir.mp4
+329*file*C:\Courses\data science course\621-Business Case Exploring the Dataset and Identifying Predictors-gdr5-git.ir.mp4
+330*file*C:\Courses\data science course\622-Business Case Outlining the Solution-U7tw-git.ir.mp4
+331*file*C:\Courses\data science course\623-Business Case Balancing the Dataset-fLlP-git.ir.mp4
+332*file*C:\Courses\data science course\624-Business Case Preprocessing the Data-oY6E-git.ir.mp4
+333*file*C:\Courses\data science course\626-Business Case Load the Preprocessed Data-qAO9-git.ir.mp4
+334*file*C:\Courses\data science course\628-Business Case Learning and Interpreting the Result-L3wU-git.ir.mp4
+335*file*C:\Courses\data science course\629-Business Case Setting an Early Stopping Mechanism-naQX-git.ir.mp4
+336*file*C:\Courses\data science course\631-Business Case Testing the Model-gwDR-git.ir.mp4
+337*file*C:\Courses\data science course\633-Summary on What You ve Learned-KfWO-git.ir.mp4
+338*file*C:\Courses\data science course\634-What s Further out there in terms of Machine Learning-Af3A-git.ir.mp4
+339*file*C:\Courses\data science course\636-An overview of CNNs-TqBF-git.ir.mp4
+340*file*C:\Courses\data science course\637-An Overview of RNNs-I908-git.ir.mp4
+341*file*C:\Courses\data science course\638-An Overview of non NN Approaches-0XjE-git.ir.mp4
+342*file*C:\Courses\data science course\640-How to Install TensorFlow 1-aiTx-git.ir.mp4
+343*file*C:\Courses\data science course\642-TensorFlow Intro-XkmE-git.ir.mp4
+344*file*C:\Courses\data science course\643-Actual Introduction to TensorFlow-LWDt-git.ir.mp4
+345*file*C:\Courses\data science course\644-Types of File Formats supporting Tensors-D6pk-git.ir.mp4
+346*file*C:\Courses\data science course\645-Basic NN Example with TF Inputs Outputs Targets Weights Biases-TXBm-git.ir.mp4
+347*file*C:\Courses\data science course\646-Basic NN Example with TF Loss Function and Gradient Descent-oO4j-git.ir.mp4
+348*file*C:\Courses\data science course\647-Basic NN Example with TF Model Output-tbm2-git.ir.mp4
+349*file*C:\Courses\data science course\649-MNIST What is the MNIST Dataset-ZGNE-git.ir.mp4
+350*file*C:\Courses\data science course\650-MNIST How to Tackle the MNIST-djaI-git.ir.mp4
+351*file*C:\Courses\data science course\651-MNIST Relevant Packages-gySp-git.ir.mp4
+352*file*C:\Courses\data science course\652-MNIST Model Outline-HRMe-git.ir.mp4
+353*file*C:\Courses\data science course\653-MNIST Loss and Optimization Algorithm-Pzob-git.ir.mp4
+354*file*C:\Courses\data science course\654-Calculating the Accuracy of the Model-3q1J-git.ir.mp4
+355*file*C:\Courses\data science course\655-MNIST Batching and Early Stopping-4Q1h-git.ir.mp4
+356*file*C:\Courses\data science course\656-MNIST Learning-0Uus-git.ir.mp4
+357*file*C:\Courses\data science course\657-MNIST Results and Testing-qhGW-git.ir.mp4
+358*file*C:\Courses\data science course\660-Business Case Getting Acquainted with the Dataset-w01o-git.ir.mp4
+359*file*C:\Courses\data science course\661-Business Case Outlining the Solution-ySPZ-git.ir.mp4
+360*file*C:\Courses\data science course\662-The Importance of Working with a Balanced Dataset-sdsD-git.ir.mp4
+361*file*C:\Courses\data science course\663-Business Case Preprocessing-RIJ1-git.ir.mp4
+362*file*C:\Courses\data science course\665-Creating a Data Provider-RNLj-git.ir.mp4
+363*file*C:\Courses\data science course\666-Business Case Model Outline-wK6v-git.ir.mp4
+364*file*C:\Courses\data science course\667-Business Case Optimization-if88-git.ir.mp4
+365*file*C:\Courses\data science course\668-Business Case Interpretation-d6Sk-git.ir.mp4
+366*file*C:\Courses\data science course\669-Business Case Testing the Model-LtgK-git.ir.mp4
+367*file*C:\Courses\data science course\670-Business Case A Comment on the Homework-bbqI-git.ir.mp4
+368*file*C:\Courses\data science course\672-What are Data Servers Clients Requests and Responses-kdI5-git.ir.mp4
+369*file*C:\Courses\data science course\674-What are Data Connectivity APIs and Endpoints-9tJI-git.ir.mp4
+370*file*C:\Courses\data science course\676-Taking a Closer Look at APIs-ePjl-git.ir.mp4
+371*file*C:\Courses\data science course\678-Communication between Software Products through Text Files-KcC4-git.ir.mp4
+372*file*C:\Courses\data science course\680-Software Integration Explained-LS9x-git.ir.mp4
+373*file*C:\Courses\data science course\682-Game Plan for this Python SQL and Tableau Business Exercise-hKuP-git.ir.mp4
+374*file*C:\Courses\data science course\683-The Business Task-apkj-git.ir.mp4
+375*file*C:\Courses\data science course\684-Introducing the Data Set-hn3U-git.ir.mp4
+376*file*C:\Courses\data science course\687-Importing the Absenteeism Data in Python-oXpD-git.ir.mp4
+377*file*C:\Courses\data science course\688-Checking the Content of the Data Set-3rZM-git.ir.mp4
+378*file*C:\Courses\data science course\689-Introduction to Terms with Multiple Meanings-skig-git.ir.mp4
+379*file*C:\Courses\data science course\691-Using a Statistical Approach towards the Solution to the Exercise-TMJt-git.ir.mp4
+380*file*C:\Courses\data science course\692-Dropping a Column from a DataFrame in Python-ljTb-git.ir.mp4
+381*file*C:\Courses\data science course\695-Analyzing the Reasons for Absence-zh27-git.ir.mp4
+382*file*C:\Courses\data science course\696-Obtaining Dummies from a Single Feature-dvgI-git.ir.mp4
+383*file*C:\Courses\data science course\700-More on Dummy Variables A Statistical Perspective-W5zr-git.ir.mp4
+384*file*C:\Courses\data science course\701-Classifying the Various Reasons for Absence-XiUp-git.ir.mp4
+385*file*C:\Courses\data science course\702-Using concat in Python-E2FV-git.ir.mp4
+386*file*C:\Courses\data science course\705-Reordering Columns in a Pandas DataFrame in Python-NCoZ-git.ir.mp4
+387*file*C:\Courses\data science course\708-Creating Checkpoints while Coding in Jupyter-lfWC-git.ir.mp4
+388*file*C:\Courses\data science course\711-Analyzing the Dates from the Initial Data Set-Wlh8-git.ir.mp4
+389*file*C:\Courses\data science course\712-Extracting the Month Value from the Date Column-QgxJ-git.ir.mp4
+390*file*C:\Courses\data science course\713-Extracting the Day of the Week from the Date Column-PwJh-git.ir.mp4
+391*file*C:\Courses\data science course\715-Analyzing Several Straightforward Columns for this Exercise-RoZk-git.ir.mp4
+392*file*C:\Courses\data science course\716-Working on Education Children and Pets-gdwF-git.ir.mp4
+393*file*C:\Courses\data science course\717-Final Remarks of this Section-MN0u-git.ir.mp4
+394*file*C:\Courses\data science course\719-Exploring the Problem with a Machine Learning Mindset-aYGN-git.ir.mp4
+395*file*C:\Courses\data science course\720-Creating the Targets for the Logistic Regression-EdDe-git.ir.mp4
+396*file*C:\Courses\data science course\721-Selecting the Inputs for the Logistic Regression-FshX-git.ir.mp4
+397*file*C:\Courses\data science course\722-Standardizing the Data-hJHC-git.ir.mp4
+398*file*C:\Courses\data science course\723-Splitting the Data for Training and Testing-fKH9-git.ir.mp4
+399*file*C:\Courses\data science course\724-Fitting the Model and Assessing its Accuracy-Y7lZ-git.ir.mp4
+400*file*C:\Courses\data science course\725-Creating a Summary Table with the Coefficients and Intercept-kEoe-git.ir.mp4
+401*file*C:\Courses\data science course\726-Interpreting the Coefficients for Our Problem-YRtZ-git.ir.mp4
+402*file*C:\Courses\data science course\727-Standardizing only the Numerical Variables Creating a Custom Scaler-mHhX-git.ir.mp4
+403*file*C:\Courses\data science course\728-Interpreting the Coefficients of the Logistic Regression-LFom-git.ir.mp4
+404*file*C:\Courses\data science course\729-Backward Elimination or How to Simplify Your Model-qT0d-git.ir.mp4
+405*file*C:\Courses\data science course\730-Testing the Model We Created-6k2B-git.ir.mp4
+406*file*C:\Courses\data science course\731-Saving the Model and Preparing it for Deployment-MIZw-git.ir.mp4
+407*file*C:\Courses\data science course\734-Preparing the Deployment of the Model through a Module-DKNl-git.ir.mp4
+408*file*C:\Courses\data science course\736-Deploying the absenteeism module Part I-MCbT-git.ir.mp4
+409*file*C:\Courses\data science course\737-Deploying the absenteeism module Part II-Zz0v-git.ir.mp4
+410*file*C:\Courses\data science course\740-Analyzing Age vs Probability in Tableau-zREw-git.ir.mp4
+411*file*C:\Courses\data science course\742-Analyzing Reasons vs Probability in Tableau-PH9M-git.ir.mp4
+412*file*C:\Courses\data science course\744-Analyzing Transportation Expense vs Probability in Tableau-K9u0-git.ir.mp4
+413*file*C:\Courses\data science course\745-Using the format Method-zDNX-git.ir.mp4
+414*file*C:\Courses\data science course\751-Iterating Over Range Objects-RevG-git.ir.mp4
+415*file*C:\Courses\data science course\752-Introduction to Nested For Loops-Fuhv-git.ir.mp4
+416*file*C:\Courses\data science course\753-Triple Nested For Loops-e60b-git.ir.mp4
+417*file*C:\Courses\data science course\761-List Comprehensions-qu0T-git.ir.mp4
+418*file*C:\Courses\data science course\767-Anonymous Lambda Functions-Xnvg-git.ir.mp4
+419*file*C:\Courses\data science course\772-Introduction to pandas Series-x66q-git.ir.mp4
+420*file*C:\Courses\data science course\784-Working with Methods in Python Part I-DcDk-git.ir.mp4
+421*file*C:\Courses\data science course\785-Working with Methods in Python Part II-pYCQ-git.ir.mp4
+422*file*C:\Courses\data science course\788-Parameters and Arguments in pandas-YDsm-git.ir.mp4
+423*file*C:\Courses\data science course\791-Using unique and nunique-TkvL-git.ir.mp4
+424*file*C:\Courses\data science course\792-Using sort values-EUxp-git.ir.mp4
+425*file*C:\Courses\data science course\793-Introduction to pandas DataFrames Part I-EDoC-git.ir.mp4
+426*file*C:\Courses\data science course\794-Introduction to pandas DataFrames Part II-63nE-git.ir.mp4
+427*file*C:\Courses\data science course\795-pandas DataFrames Common Attributes-PelI-git.ir.mp4
+428*file*C:\Courses\data science course\796-Data Selection in pandas DataFrames-JPIN-git.ir.mp4
+429*file*C:\Courses\data science course\797-pandas DataFrames Indexing with iloc-BVQY-git.ir.mp4
+430*file*C:\Courses\data science course\798-pandas DataFrames Indexing with loc-rSgs-git.ir.mp4
